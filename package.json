@@ -1,5 +1,5 @@
 {
-  "name": "vjs-contacts-voipgrid",
+  "name": "vialer-js-contacts-voipgrid",
   "version": "3.0.0",
   "description": "Vialer-js Contacts provider for the VoIPGRID platform.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vialer/vjs-contacts-voipgrid.git"
+    "url": "git+https://github.com/vialer/vialer-js-contacts-voipgrid.git"
   },
   "keywords": [
     "vialer-js",
@@ -17,7 +17,7 @@
   "author": "Windshaft B.V.",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vialer/vjs-contacts-voipgrid/issues"
+    "url": "https://github.com/vialer/vialer-js-contacts-voipgrid/issues"
   },
-  "homepage": "https://github.com/vialer/vjs-contacts-voipgrid#readme"
+  "homepage": "https://vialer-js.io"
 }
