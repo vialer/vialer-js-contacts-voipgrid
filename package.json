@@ -1,7 +1,7 @@
 {
   "name": "vjs-contacts-provider-vg",
   "version": "3.0.0",
-  "description": "Vialer-js Contacts provider for the VoIPGRID platform.",
+  "description": "Vialer-js Contacts provider for the VoIPGRID API.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
