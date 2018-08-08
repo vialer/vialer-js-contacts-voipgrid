@@ -7,16 +7,13 @@
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
-    "type": "git",
+        "type": "git",
         "url": "git+https://github.com/vialer/vjs-provider-contacts-vg.git"
     },
     "keywords": [
         "vialer-js",
         "softphone"
     ],
-    "peerDependencies": {
-        "vialer-js": "4.x"
-    },
     "author": "Windshaft B.V.",
     "license": "MIT",
     "bugs": {
