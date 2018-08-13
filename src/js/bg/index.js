@@ -1,5 +1,5 @@
-const ContactsProvider = require('vialer-js/bg/modules/contacts/provider')
-const Contact = require('vialer-js/bg/modules/contacts/contact')
+const ContactsProvider = require('vialer-js/bg/plugins/contacts/provider')
+const Contact = require('vialer-js/bg/plugins/contacts/contact')
 
 
 class ContactsProviderVoipgrid extends ContactsProvider {
